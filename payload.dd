@@ -1,6 +1,32 @@
-REM The next four lines open Notepad in Windows and type "Hello World!"
+DELAY 1000
 GUI r
+DELAY 500
 STRING notepad
 ENTER
-DELAY 250
-STRING Hello World!
+DELAY 1500
+
+STRING I
+DELAY 10
+STRING  think
+DELAY 10
+STRING  this
+DELAY 10
+STRING  is
+DELAY 10
+STRING  good
+ENTER
+DELAY 2550
+
+STRING  Can 
+DELAY 100
+STRING  it 
+DELAY 1000
+STRING  really
+DELAY 10
+STRING  work
+DELAY 100
+STRING  seriously?
+ENTER
+DELAY 1000
+
+STRING like for real.
